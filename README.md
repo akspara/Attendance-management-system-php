@@ -1,32 +1,8 @@
-# Attendance-management-system-php
-
-STUDENT ATTENDANCE MANAGEMENT
-This project is based on maintaining the attendace of the student in the DATABASE
-
-this website is wholesolelly based on PHP.Its uses Static as well as Dynamic Pages.					
-
-* Home Page
--home page is a styled css html page.  
--It also can send email for contacting the owner/creater of the website
-	
-
-* Signin Page
--user can login with username and password (encrypted with MD5 function)
--If you are not already a member then you can register from signin page.
-
-* Signup Page
--New acounts can be created using Signup page.
--To register you just need to fill the form accordingly.
--Any error in the form will be notified to the user like "password didnt match" or "username is empty" etc.
+Attendance management system provide an interface to manage the attendance via php and database. Its a simple database based project.
 
 
-* Student Login Page
--Student users registered with Registration Page can Login to view hidden information.
--Hidden information contains your personal details and attendance datails.
--Users can mark their attendance for the current day.Once marked, user cannot change their attendance directly.
--If you are opening your account after some days , after marking your attendance, it will automatically mark absent for the days in between.
--Users can only view this page once they login.
--sessions are implemeted.
 
 
-thank you and please read important flies before running it in your computer.
+BEFORE RUNNING THE PROGRAM PLEASE READ IMPORTANT FILES ¡¡¡¡¡¡¡¡¡¡¡¡¡ 
+
+Thank you and please provide your feedback too as it's my first web based project .
