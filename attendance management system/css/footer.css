@@ -1,0 +1,14 @@
+footer
+{ 
+	
+position: relative;
+  color:white;
+  text-align: center;
+  background-color: black;
+  border: 2px solid black;
+  margin-left: -8px;
+ margin-right: -8px;
+
+ clear: both;
+ height: 200px;
+}

@@ -1,0 +1,94 @@
+
+  #login
+{
+  width: 40%;
+  height: 80px;
+  margin: 50px auto 0px;
+  color: white;
+  background: #800000;
+  text-align:center;
+  border:1px solid #800000;
+  border-bottom: none;
+  border-radius:10px 10px 0px 0px;
+  padding: 20px; 
+}
+
+  #login11
+{
+  width: 40%;
+  height: 80px;
+  margin: 50px auto -20px;
+  color: white;
+  background: #800000;
+  text-align:center;
+  border:1px solid #800000;
+  border-bottom: none;
+  border-radius:10px 10px 0px 0px;
+  padding: 20px; 
+}
+
+
+#signup
+{  width: 40%;
+  height: 1200px;
+  margin: 0px auto 0px;
+  text-align: center;
+  
+  font-style: italic;
+  border:1px solid white;
+  color: black;
+  background: white;
+  border-bottom: none;
+  border-radius:0px 0px 10px 10px;
+  padding: 20px; 
+}
+
+
+
+p.inputgroup
+{
+  margin:10px 0px 10px 0px;
+}
+p.inputgroup label
+{
+  display: block;
+  text-align: left;
+  margin:3px;
+  font-style: italic;
+}
+
+p.inputgroup input
+{
+  height: 30px;
+  width: 93%;
+  padding: 5px 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  border:1px solid gray;
+}
+
+#sub
+{
+  padding:10px;
+  font-size: 15px;
+  color:white;
+  background: #5F9EA0;
+  border:none;
+  border-radius: 5px;
+}
+
+#log
+{  width: 40%;
+  height: 90%;
+  margin: 0px auto 0px;
+  text-align: center;
+  
+  font-style: italic;
+  border:1px solid white;
+  color: black;
+  background: white;
+   border-bottom: none;
+  border-radius:0px 0px 10px 10px;
+  padding: 20px; 
+}
+

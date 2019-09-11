@@ -1,0 +1,27 @@
+
+DON'T FORGET TO CREATE A DATABASE NAMING "data" AND IMPORT THE SQL FILE AND RUN.
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+
+******************************************************************
+YOU CAN ALSO RUN WITHOUT IMPORTING 
+
+YOU JUST HAVE TO CREATE DATABASE NAMING 'data' AND
+CREATE A TABLE WITH THESE SPECIFICATIONS
+
+firstname -- varchar(30)
+lastname -- varchar(30)
+password -- varchar(50) //it will be encrypted so larger space is needed
+username -- varchar(30)
+gender -- varchar(7)
+startdat -- date     // create startdat , not startdate
+endate -- date      // create endat , not enddate
+
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
+
+
+***** LEAVE A COMMENT IF YOU LOVED MY WORK *****
+
+******ITS MY FIRST WEBSITE SO PLEASE BE GENTLE (LMAO)*****
+
+
+#THANK YOU FOR DOWNLOADING
